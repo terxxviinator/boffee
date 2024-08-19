@@ -1,0 +1,13 @@
+@font-face {
+    font-family: headingFont;
+    src: url(../font/JandaManateeBubble.ttf);
+}
+@font-face {
+    font-family: paragraphFont;
+    src: url(../font/Bubbly-Regular.ttf);
+}
+
+p{
+    font-family: paragraphFont;
+    size: 24px;
+}
